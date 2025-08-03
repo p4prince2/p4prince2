@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince Kushwaha
 - 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning DarkNet Model
+- 🌱 I’m currently learning Deepface Model
 - 💞️ I’m looking to collaborate on Robotics 
 - 📫 How to reach me  p4prince2@gmail.com
 - 😄 Pronouns: 
