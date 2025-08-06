@@ -46,7 +46,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekushwaha2002&layout=compact&theme=github_dark&hide_border=true" width="47%" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p4prince2&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p4prince2&layout=compact&theme=radical)
 <!---
 p4prince2/p4prince2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
