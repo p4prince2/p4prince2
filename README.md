@@ -45,17 +45,9 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p4prince2&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p4prince2&theme=tokyonight" />
-</p>
 
----
-
-### 🧠 Quote I Live By
+### 🧠 Quote 
 
 > “Everything is theoretically impossible, until it is done.” — Robert A. Heinlein
 
