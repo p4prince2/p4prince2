@@ -1,55 +1,63 @@
 <h1 align="center">Hi 👋, I'm Prince Kushwaha</h1>
-<h3 align="center">A passionate AI enthusiast diving deep into Computer Vision & Robotics</h3>
+<h3 align="center">🚀 A passionate Data Science graduate, building AI that sees the world</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=p4prince2&label=Profile%20views&color=0e75b6&style=flat" alt="p4prince2" />
+</p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on a **Driver Safety AI** project using Deep Learning and LSTM models  
-- 🌱 Actively exploring advanced topics in **Facial Analysis** with the **DeepFace** library  
-- 🤖 Excited to collaborate on **Robotics**, **Computer Vision**, and **Real-time AI applications**  
-- 💡 Passionate about building intelligent systems that make life safer and smarter  
-- 📫 Reach me at: **[p4prince2@gmail.com](mailto:p4prince2@gmail.com)**  
-- 🧠 Learning never stops: always tinkering, reading research papers, and building cool stuff  
-- 😄 Pronouns: *He/Him*  
-- ⚡ Fun fact: *Once wrote a bug so clever, my IDE started laughing... then crashed.*
+
+- 🎓 B.Tech in Data Science  
+- 🤖 Working on **Driver Safety AI** using Deep Learning & LSTM  
+- 🔍 Exploring **Facial Expression Analysis**, **Gaze Tracking**, and **Real-Time Drowsiness Detection**  
+- 🧠 Currently learning: `DeepFace`, `MediaPipe`, `MobileNetV2`, `ResNet18`, `LSTM`  
+- 📚 Writing on Medium: [@p4prince2](https://medium.com/@p4prince2)  
+- 💡 Fun fact: Once wrote code so buggy, even my IDE offered me emotional support 🧠💥  
+- 👀 I'm deeply interested in **Computer Vision**, **Human Behavior Modeling**, and **Robotics Collaboration**  
+- 📫 Reach me: [p4prince2@gmail.com](mailto:p4prince2@gmail.com)
 
 ---
 
-### 🔧 Tech Stack
+### 📌 Let's Connect
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<p align="left">
+  <a href="https://www.linkedin.com/in/prince-kushwaha-112b5722a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/p4prince/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://medium.com/@p4prince2" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:p4prince2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 ---
 
-### 🚀 Let's Connect!
-<a href="mailto:p4prince2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/princekushwaha2002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/princekushwaha2002" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ResNet-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00BCD4?style=for-the-badge&logo=darkreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princekushwaha2002&show_icons=true&theme=github_dark&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princekushwaha2002&theme=github-dark-blue&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=p4prince2&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p4prince2&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekushwaha2002&layout=compact&theme=github_dark&hide_border=true" width="47%" />
-</p>
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p4prince2&show_icons=true&theme=radical)
+### 🧠 Quote I Live By
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p4prince2&layout=compact&theme=radical)
-<!---
-p4prince2/p4prince2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> “Everything is theoretically impossible, until it is done.” — Robert A. Heinlein
+
+---
+
