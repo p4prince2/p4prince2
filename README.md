@@ -10,7 +10,7 @@
 - 🎓 B.Tech in Data Science  
 - 🤖 Working on **Driver Safety AI** using Deep Learning & LSTM  
 - 🔍 Exploring **Facial Expression Analysis**, **Gaze Tracking**, and **Real-Time Drowsiness Detection**  
-- 🧠 Currently learning: `DeepFace`, `MediaPipe`, `MobileNetV2`, `ResNet18`, `LSTM`  
+- 🧠 Currently learning: `DeepFace`, `MediaPipe`, `GPT`, `ResNet18`, `LSTM`  
 - 📚 Writing on Medium: [@p4prince2](https://medium.com/@p4prince2)  
 - 💡 Fun fact: Once wrote code so buggy, even my IDE offered me emotional support 🧠💥  
 - 👀 I'm deeply interested in **Computer Vision**, **Human Behavior Modeling**, and **Robotics Collaboration**  
