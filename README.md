@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prince Kushwaha</h1>
-<h3 align="center">🚀 A passionate Data Science graduate, building AI that sees the world</h3>
+<h1 align="center">Hi , I'm Prince Kushwaha</h1>
+<h3 align="center"> A passionate Data Science graduate, building AI that sees the world</h3>
 
 
 
