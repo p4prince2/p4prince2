@@ -2,7 +2,7 @@
 <h3 align="center"> A passionate Data Science graduate, building AI that sees the world</h3>
 
 
-
+ 
 ---
 
 ### 👨‍💻 About Me
