@@ -13,7 +13,7 @@
 - 🧠 Currently learning: `MLOps`
 - 📚 Writing on Medium: [@p4prince2](https://medium.com/@p4prince2)  
 - 💡 Fun fact: Once wrote code so buggy , even my IDE offered me emotional support  
-- 👀 I'm deeply interested in **Computer Vision**, **Human Behavior Modeling**, and **Robotics Collaboration**  
+- 👀 I'm deeply interested in **Computer Vision**, **Human Behavior Modeling** and **Robotics Collaboration**  
 - 📫 Reach me: [p4prince2@gmail.com](mailto:p4prince2@gmail.com)
 
 ---
