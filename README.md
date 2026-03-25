@@ -5,7 +5,7 @@
  
 ---   
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 
 - 🎓 B.Tech in Data Science  
