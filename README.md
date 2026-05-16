@@ -9,7 +9,7 @@
 
  
 - 🎓 B.Tech in Data Science  
-- 🤖 Working on **Driver Safety AI** using Deep Learning & LSTM 
+- 🤖 Working on **Driver Safety AI** using Deep Learning & LSTM  
 - 🔍 Exploring **Facial Expression Analysis**, **Gaze Tracking**, and **Real-Time Drowsiness Detection**  
 - 🧠 Currently learning: `MLOps`
 - 📚 Writing on Medium: [@p4prince2](https://medium.com/@p4prince2)  
